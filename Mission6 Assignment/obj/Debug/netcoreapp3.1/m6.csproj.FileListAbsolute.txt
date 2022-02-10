@@ -1,0 +1,8 @@
+/Users/yuze/Desktop/Mission5 Assignment  copy/obj/Debug/netcoreapp3.1/m6.csproj.AssemblyReference.cache
+/Users/yuze/Desktop/Mission5 Assignment  copy/obj/Debug/netcoreapp3.1/m6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuze/Desktop/Mission5 Assignment  copy/obj/Debug/netcoreapp3.1/m6.AssemblyInfoInputs.cache
+/Users/yuze/Desktop/Mission5 Assignment  copy/obj/Debug/netcoreapp3.1/m6.AssemblyInfo.cs
+/Users/yuze/Desktop/Mission5 Assignment  copy/obj/Debug/netcoreapp3.1/m6.csproj.CoreCompileInputs.cache
+/Users/yuze/Desktop/Mission5 Assignment  copy/obj/Debug/netcoreapp3.1/m6.MvcApplicationPartsAssemblyInfo.cache
+/Users/yuze/Desktop/Mission5 Assignment  copy/obj/Debug/netcoreapp3.1/m6.RazorAssemblyInfo.cache
+/Users/yuze/Desktop/Mission5 Assignment  copy/obj/Debug/netcoreapp3.1/m6.RazorAssemblyInfo.cs

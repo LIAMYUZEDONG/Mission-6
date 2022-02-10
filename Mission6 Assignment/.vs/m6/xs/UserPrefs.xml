@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{3468E624-C27D-4235-A6A4-9BAD7455B0EE}|DateMe">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/List.cshtml">
+    <Files>
+      <File FileName="Models/m6ApplicationContext.cs" Line="14" Column="1" />
+      <File FileName="Models/Task.cs" />
+      <File FileName="Controllers/HomeController.cs" />
+      <File FileName="Models/ApplicationResponse.cs" />
+      <File FileName="Models/ErrorViewModel.cs" />
+      <File FileName="Views/Home/Confirmation.cshtml" />
+      <File FileName="Views/Home/Delete.cshtml" />
+      <File FileName="Views/Home/Index.cshtml" />
+      <File FileName="Views/Home/List.cshtml" Line="10" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="m6" expanded="True">
+            <Node name="m6" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="List.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.m6 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
